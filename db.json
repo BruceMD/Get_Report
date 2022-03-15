@@ -6,7 +6,7 @@
 	"dataElements": [{
 		"dataElementName": "HIV patients on treatment",
 		"values": [{
-				"disagregation": [{
+				"disaggregation": [{
 						"key": "gender",
 						"index": 0
 					},
@@ -18,7 +18,7 @@
 				"value": 20
 			},
 			{
-				"disagregation": [{
+				"disaggregation": [{
 						"key": "gender",
 						"index": 0
 					},
@@ -30,7 +30,7 @@
 				"value": 14
 			},
 			{
-				"disagregation": [{
+				"disaggregation": [{
 						"key": "gender",
 						"index": 1
 					},
@@ -42,7 +42,7 @@
 				"value": 7
 			},
 			{
-				"disagregation": [{
+				"disaggregation": [{
 						"key": "gender",
 						"index": 1
 					},
